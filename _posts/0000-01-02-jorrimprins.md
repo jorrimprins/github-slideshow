@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Achterin ook moooi?
+Prrrrrrrt
 Use the left arrow to go back!
